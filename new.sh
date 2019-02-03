@@ -32,10 +32,10 @@ echo          MicroClone-ZoRROkiN |lolcat
 echo ________________________________ |lolcat
 
 echo -e "\033[33;1m -CONTACT ME- "
-echo -e "\033[31;1m Fb : 0h Oh Hekel ll"
-echo -e "\033[31;1m Wa : 0822-7881-8357"
+echo -e "\033[31;1m Fb : Muhammad Amar Shidiq Ma"
+echo -e "\033[31;1m Wa : 0813 600 44 2 52"
 echo -e "\033[37;1m Tm : 0x3a"
-echo -e "\033[37;1m Em : omest98@yahoo.com"
+echo -e "\033[37;1m Em : Amarsh0499@gmail.com"
 
 echo WAIT CONNECTING FOR LIST TOOL |lolcat -a -d 150
 
