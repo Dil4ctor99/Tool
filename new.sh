@@ -15,7 +15,7 @@ sleep 1
 
 
 echo _______________________________ |lolcat
-echo author : 0MEST |lolcat
+echo author : AmarSh |lolcat
 echo _______________________________ |lolcat
 echo program : bash |lolcat
 echo _______________________________ |lolcat
@@ -25,9 +25,9 @@ echo type : tool gabungan |lolcat
 echo _______________________________ |lolcat
 echo team  : Termux-Tools-ID |lolcat
 echo _______________________________ |lolcat
-echo thanks : Mr.Tr3v!0n-HUN7312 |lolcat
-echo          M.Daffa-Patrick |lolcat
-echo          Mr.Viver-Chemod |lolcat
+echo thanks : Mr.Brain |lolcat
+echo          M.Patrick |lolcat
+echo          Mr.coder404 |lolcat
 echo          MicroClone-ZoRROkiN |lolcat
 echo ________________________________ |lolcat
 
