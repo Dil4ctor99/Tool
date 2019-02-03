@@ -1,7 +1,7 @@
  أسلم عليكم 
- Sebelum nya saya mengucapkan terimakasih banyak kepada seluruh temen-temen siber saya 
- yaitu di antara nya: Mr.Viver Chemod_zrd404 p47rick MicroClone Mr.Tr3v!0n Daffa XHUN7312
- D3T3CTIVEE Saskeh Joko BcD & All Anonymous Insonesian
+ Sebelum nya saya ucapkan terimakasih kepada teman² saya semuanya ya..
+ kemudian Ada grub #Muslim Cyber Army, #Acheh cyber team, #IndoNesian DarkNet dan 
+ seluruh keluarga anonimity indonesia
  
  [$] ===Special Thanks=== [#] 
  Termux-Tools-ID
@@ -15,7 +15,7 @@ pkg upgrade
 pkg install lolcat
 pkg install toilet
 pkg install git
-git clone https://github.com/0M3STG4NT3N6/0mTools.git
+git clone https://github.com/Dil4ctor99/tool
 cd 0mTools
 ls
 sh v1.sh
